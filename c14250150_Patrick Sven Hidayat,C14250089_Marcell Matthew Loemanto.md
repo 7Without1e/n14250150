@@ -5,10 +5,22 @@
 Workflow KNIME ini dibuat untuk menganalisis dataset **Toyota Corolla** dan menemukan **warna mobil yang paling sering muncul** serta melakukan eksplorasi data melalui beberapa visualisasi seperti:
 
 * Bar Plot
+<img width="2146" height="516" alt="Bar Chart 1" src="https://github.com/user-attachments/assets/c85a4baa-299d-49d9-928d-009109d63a9f" />
+
+  
 * Pie Chart
+  <img width="2146" height="516" alt="Pie Chart" src="https://github.com/user-attachments/assets/3ce5672f-68f5-439d-83ce-5f3bfb774971" />
+
 * Scatter Plot
+  <img width="2146" height="516" alt="Scatter Plot" src="https://github.com/user-attachments/assets/a71308f2-beb7-40ed-9199-b8f8727b8b18" />
+
+  
 * Box Plot
+  <img width="2146" height="516" alt="Box Plot" src="https://github.com/user-attachments/assets/99bf1bcf-b04f-4547-9556-e23948bfbd3e" />
+
 * Density Plot
+  <img width="2146" height="516" alt="Density Plot" src="https://github.com/user-attachments/assets/8a4987ed-32ae-4f5f-b2a8-fc421b9c0d8a" />
+
 
 Workflow juga mencakup proses preprocessing seperti:
 
